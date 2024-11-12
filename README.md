@@ -1,4 +1,4 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)
+![MasterHead](https://images8.alphacoders.com/115/thumb-1920-1156488.png)
 <h1 align="center">Hi 👋, I'm Abir Chakraborty</h1>
 <h3 align="center">A maverick explorer in the world of AI, where every algorithm is a new adventure in understanding intelligence. <p>Deep learning keeps me awake, AI doesn’t let me sleep.</p></h3>
 <br>
