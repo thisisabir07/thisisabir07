@@ -138,9 +138,18 @@ Hi 👋, I'm Abir Chakraborty</h1>
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
 </p>
 --->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thisisabir07&show_icons=true&locale=en&layout=compact&theme=dark" alt="thisisabir07" /></p>
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thisisabir07&show_icons=true&locale=en&theme=dark" alt="thisisabir07" /></p>
-<br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thisisabir07&theme=dark" alt="thisisabir07" /></p>
+<p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=thisisabir07&show_icons=true&locale=en&theme=dark" alt="thisisabir07" style="margin-right: 20px;" />
+    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=thisisabir07&theme=dark" alt="thisisabir07" style="margin-left: 20px;" />
+</p>
+
+<!-- Additional spacing -->
+<br><br>
+<p style="margin-top: 40px;"></p>
+
+<div align="center" style="margin-top: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thisisabir07&show_icons=true&locale=en&layout=compact&theme=dark" alt="thisisabir07" />
+</div>
+
 
