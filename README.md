@@ -113,9 +113,19 @@ ___
 ___
 
 <h1 align="center">Github Stats:</h1>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thisisabir07&theme=dark" alt="thisisabir07" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=thisisabir07&show_icons=true&locale=en&theme=dark" alt="thisisabir07" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thisisabir07&show_icons=true&locale=en&layout=compact&theme=dark" alt="thisisabir07" /></p>
+
+<div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=thisisabir07&theme=dark" alt="thisisabir07" />
+</div>
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=thisisabir07&show_icons=true&locale=en&theme=dark" alt="thisisabir07" />
+</div>
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thisisabir07&show_icons=true&locale=en&layout=compact&theme=dark" alt="thisisabir07" />
+</div>
+
 
 
 
