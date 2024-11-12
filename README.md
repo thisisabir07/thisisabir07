@@ -1,5 +1,6 @@
-![MasterHead](https://images8.alphacoders.com/115/thumb-1920-1156488.png)
-<h1 align="center">Hi 👋, I'm Abir Chakraborty</h1>
+![MasterHead](https://github.com/user-attachments/assets/c9396cad-69fa-4fb5-8524-b6ac9825cde0)
+<h1 align="center">
+Hi 👋, I'm Abir Chakraborty</h1>
 <h3 align="center">A maverick explorer in the world of AI, where every algorithm is a new adventure in understanding intelligence. <p>Deep learning keeps me awake, AI doesn’t let me sleep.</p></h3>
 <br>
 <img align="right" src="https://tempfile.aiquickdraw.com/m/1731407661_7a7d3f640e8248249d25e2e04662e90a.png" width="485" height="485" style="max-width: 100%;"></img>
