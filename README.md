@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Abir Chakraborty</h1>
 <h3 align="center">A maverick explorer in the world of AI, where every algorithm is a new adventure in understanding intelligence. <p>Deep learning keeps me awake, AI doesn’t let me sleep.</p></h3>
 <br>
-<img align="right" src="https://tempfile.aiquickdraw.com/m/1731407661_7a7d3f640e8248249d25e2e04662e90a.png" width="500" height="500" style="max-width: 100%;"></img>
+<img align="right" src="https://tempfile.aiquickdraw.com/m/1731407661_7a7d3f640e8248249d25e2e04662e90a.png" width="400" height="400" style="max-width: 100%;"></img>
 
 - 🔭 I’m currently working on **miniGPT**
 
