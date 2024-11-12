@@ -113,15 +113,9 @@ ___
 ___
 
 <h1 align="center">Github Stats:</h1>
-<p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=thisisabir07&show_icons=true&locale=en&theme=dark" alt="thisisabir07" style="margin-right: 20px;" />
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thisisabir07&theme=dark" alt="thisisabir07" style="margin-left: 20px;" />
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thisisabir07&show_icons=true&locale=en&theme=dark" alt="thisisabir07" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thisisabir07&theme=dark" alt="thisisabir07" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thisisabir07&show_icons=true&locale=en&layout=compact&theme=dark" alt="thisisabir07" /></p>
 
-<!-- Spacer div for extra space -->
-<div style="clear: both; height: 40px;"></div>
-<p></p>
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thisisabir07&show_icons=true&locale=en&layout=compact&theme=dark" alt="thisisabir07" />
-</div>
+
 
