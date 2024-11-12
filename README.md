@@ -15,7 +15,7 @@ Hi 👋, I'm Abir Chakraborty</h1>
 
 - 💬 Ask me about **AI and how computers think**
 
-- 📫 How to reach me **abirsc7@gmail.com**
+- 📫 Reach me at: **abirsc7@gmail.com**
 
 - ⚡ Fun fact: **I’m fond of solving Rubik’s cubes & other puzzles.**
 
