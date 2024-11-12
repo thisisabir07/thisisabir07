@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/user-attachments/assets/c9396cad-69fa-4fb5-8524-b6ac9825cde0)
+![MasterHead](https://github.com/user-attachments/assets/cbbec2b4-1e31-4945-bf8d-066ca2fe5a0d)
 <h1 align="center">
 Hi 👋, I'm Abir Chakraborty</h1>
 <h3 align="center">A maverick explorer in the world of AI, where every algorithm is a new adventure in understanding intelligence. <p>Deep learning keeps me awake, AI doesn’t let me sleep.</p></h3>
