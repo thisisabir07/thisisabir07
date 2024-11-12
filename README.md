@@ -93,6 +93,7 @@ Hi 👋, I'm Abir Chakraborty</h1>
 <p align='center'>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
   <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> 
+</p>
 
 <!-- Other Tools -->
 <h4 align="center">Other Tools:</h4>
@@ -104,6 +105,7 @@ Hi 👋, I'm Abir Chakraborty</h1>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 </p>
+<br>
 
 
 <!---
@@ -136,9 +138,9 @@ Hi 👋, I'm Abir Chakraborty</h1>
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
 </p>
 --->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thisisabir07&show_icons=true&locale=en&layout=compact&theme=dark" alt="thisisabir07" /></p>
+<br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thisisabir07&show_icons=true&locale=en&theme=dark" alt="thisisabir07" /></p>
+<br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thisisabir07&theme=dark" alt="thisisabir07" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thisisabir07&show_icons=true&locale=en&layout=compact" alt="thisisabir07" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thisisabir07&show_icons=true&locale=en" alt="thisisabir07" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thisisabir07&" alt="thisisabir07" /></p>
