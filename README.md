@@ -32,9 +32,6 @@ Hi 👋, I'm Abir Chakraborty</h1>
   <a href="https://discord.gg/thisisabir07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="thisisabir07" height="30" width="40" /></a>
 </div>
 
-
-<br>
-<br>
 <h1 aligh="left"> Tech Stack: </h1>
 
 <div align="center">
