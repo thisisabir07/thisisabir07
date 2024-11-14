@@ -6,6 +6,7 @@ Hi 👋, I'm Abir Chakraborty</h1>
 <!-- <img align="right" src="https://tempfile.aiquickdraw.com/m/1731407661_7a7d3f640e8248249d25e2e04662e90a.png" width="490" height="490" style="max-width: 100%;"></img> -->
 <img align="right" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="490" height="490" style="max-width: 100%;" alt="GIF from GIPHY">
 <!-- <img align="right" src="https://media.giphy.com/media/wLNuW1tCKRiPmDV5Y4/giphy.gif" width="490" height="430" style="max-width: 100%;" alt="GIF from GIPHY"> -->
+
 - 🔭 I’m currently working on **miniGPT**
 
 - 🌱 I’m currently learning **MERN Stack**
