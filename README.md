@@ -5,7 +5,7 @@ Hi 👋, I'm Abir Chakraborty</h1>
 <br>
 <!-- <img align="right" src="https://tempfile.aiquickdraw.com/m/1731407661_7a7d3f640e8248249d25e2e04662e90a.png" width="490" height="490" style="max-width: 100%;"></img> -->
 <img align="right" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="490" height="490" style="max-width: 100%;" alt="GIF from GIPHY">
-
+<!-- <img align="right" src="https://media.giphy.com/media/wLNuW1tCKRiPmDV5Y4/giphy.gif" width="490" height="430" style="max-width: 100%;" alt="GIF from GIPHY"> -->
 - 🔭 I’m currently working on **miniGPT**
 
 - 🌱 I’m currently learning **MERN Stack**
@@ -19,19 +19,18 @@ Hi 👋, I'm Abir Chakraborty</h1>
 - 📫 Reach me at: **abirsc7@gmail.com**
 
 - ⚡ Fun fact: **I’m fond of solving Rubik’s cubes & other puzzles.**
-
 <br>
-  
-  <h3 align="left">Connect with me:</h3>
-  <p align="left">
+<h3 align="left">Connect with me:</h3>
+<div align="left" style="margin-top: 100px;"> <!-- Adjust the margin as needed -->
   <a href="https://linkedin.com/in/thisisabir07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thisisabir07" height="30" width="40" /></a>
   <a href="https://twitter.com/thisisabir07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thisisabir07" height="30" width="40" /></a>
   <a href="https://instagram.com/thisisabir07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thisisabir07" height="30" width="40" /></a>
   <a href="https://www.codechef.com/users/thisisabir07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="thisisabir07" height="30" width="40" /></a>  
-  <a href="https://codeforces.com/profile/thisisabir07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="thisisabir07" height="30" width="40" /</a>
+  <a href="https://codeforces.com/profile/thisisabir07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="thisisabir07" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/thisisabir07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="thisisabir07" height="30" width="40" /></a>
   <a href="https://discord.gg/thisisabir07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="thisisabir07" height="30" width="40" /></a>
-  </p>
+</div>
+
 
 <br>
 <br>
