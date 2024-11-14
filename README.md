@@ -1,7 +1,7 @@
 ![MasterHead](https://camo.githubusercontent.com/df1b2bf5f7bb9dfcaa25930b43191a2f8fc8098c9b5a82630079ad8dbe5eb39f/68747470733a2f2f6d65646961322e67697068792e636f6d2f686561646572732f4769744875622f77385a4a4c744a626d7570682e676966)
 <h1 align="center">
 Hi 👋, I'm Abir Chakraborty</h1>
-<h3 align="center">A maverick explorer in the world of AI, where every algorithm is a new adventure in understanding intelligence. <p>Deep learning keeps me awake, AI doesn’t let me sleep.</p></h3>
+<h3 align="center">A maverick explorer in the world of AI, where every algorithm is a new adventure in <p>understanding intelligence.</p><p>Deep learning keeps me awake, AI doesn’t let me sleep.</p></h3>
 <br>
 <!-- <img align="right" src="https://tempfile.aiquickdraw.com/m/1731407661_7a7d3f640e8248249d25e2e04662e90a.png" width="490" height="490" style="max-width: 100%;"></img> -->
 <img align="right" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="400" height="400" style="max-width: 100%;" alt="GIF from GIPHY">
